@@ -2,6 +2,7 @@
 import flet as ft
 from app.components.popup import show_popup, close_popup
 
+
 #La función formulario_nuevo_editar_producto recibe on_submit,
 # aquí se recibe la función para agregar o editar el producto
 # (estas funciones posteriormente se crearán en mostrar_productos_httpx.py)
